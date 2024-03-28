@@ -1,5 +1,4 @@
-# main text
-The coevolution of Rickettsial endosymbionts and their tick vectors
+# The coevolution of Rickettsial endosymbionts and their tick vectors
 
 The genus Rickettsia consists of gram-negative bacteria vectored by hematophagous arthropods
 (Salje et al. 2021). Out of the 1407 known human pathogens, at least 60% are known to have
@@ -57,4 +56,5 @@ Line. Appl Environ Microbiol. 67(2):546–552. doi:10.1128/AEM.67.2.546-552.2001
 Swei A, Couper LI, Coffey LL, Kapan D, Bennett S. 2020. Patterns, Drivers, and Challenges of
 Vector-Borne Disease Emergence. Vector Borne Zoonotic Dis. 20(3):159–170.
 doi:10.1089/vbz.2018.2432.
+
 ![](files/nc_astral.tre.jpg)
