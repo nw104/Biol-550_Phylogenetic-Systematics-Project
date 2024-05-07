@@ -26,7 +26,11 @@ For Maximum Likelihood (ML), only two resolved lineages were observed for vector
 
 ![](Figures/Figure1_MP.jpg)
 
+Fig 1. Maximum Parsimony (Right) Tick vectors associated with SFG Rickettsia were largely grouped together, the exception being I. lividus which was grouped with vectors of TG Rickettsia. (Left) Rickettsia are grouped together by disease group, apart from R. philipii (SFG) being grouped with TG Rickettsia and R. japonica being basally grouped with members of the SFG. 
+
 ![](Figures//Figure2_MP.jpg)
+
+Fig 2. Maximum Likelihood (Right) Ticks vectors associated with TG species are grouped basally towards the base of the tree, apart from D. andersoni. (Left) For the Rickettsia tree, two members of the TG share more bootstrap support with members of the SFG, R. australis (TG) and R. philipii (SFG), and R. felis (TG) and R. vini (SFG).
 
 ![](Figures/Table1.jpg)
 
