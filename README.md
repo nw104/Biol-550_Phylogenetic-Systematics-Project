@@ -7,7 +7,6 @@ Rickettsia is a genus of gram-negative bacteria vectored by hematophagous arthro
 
 Key Words: endosymbionts, coevolution, vector-specific
 
-
 Introduction
 Rickettsia is a genus of gram-negative bacteria vectored by hematophagous arthropods (Salje et al. 2021). Pathogenic Rickettsia are responsible for numerous febrile diseases in mammals, including spotted fever and typhus fever rickettsiosis (Morand and Walther 2018). Over the past 40 years, the incidence of rickettsial diseases has increased and has seen a continuous increase since 1970 (Morand et al. 2020). In recent years, cases of tick-borne diseases, such as Lyme borreliosis (Swei et al. 2020a) and reported cases of spotted fever rickettsiosis in the United States (Biggs et al. 2016) have experienced a rise. Hard ticks are the most common vector for vector borne zoonotic diseases and are the primary vector of Rickettsia (Swei et al. 2020). Understanding the distribution and prevalence of ticks and their associated pathogens can help assess the potential risk tick-borne diseases pose to humans and animals (Halliday et al. 2007).
 The coevolution of tick-borne pathogens with their tick vectors has led to the development of different strategies employed by these pathogens for successful transmission and manipulation of their host (Weinert et al. 2015). Šimo et al. (2017) notes the ability of some bacteria to manipulate molecules in the salivary glands to promote pathogen exchange during co-feeding and pathogenicity enhancement. Rickettsia were found to exploit immunomodulating  factors in  the saliva of Ambylomma maculatum during feeding (Banajee et al. 2015; Šimo et al. 2017) Foley et al. (2008) presents the possibility of Anaplasma phagocytophilum closely evolving with Ixodes ricinus, leading to optimized local infectivity in North America. Thu et al. (2019) found strong support for species-specific association between Rickettsia and ticks in Japan based on the rickettsial phenotype. High prevalence of rickettsial endosymbionts among ticks implies a well-established dependency (Cheng et al. 2013), but such highly prevalent dependencies have not been observed among pathogenic Rickettsia and their respective vectors.
@@ -25,11 +24,11 @@ For Maximum Parsimony (MP), a basally orientated polytomy was present for Phereo
 Maximum Likelihood
 For Maximum Likelihood (ML), only two resolved lineages were observed for vectors. I. tasmani exhibited a resolved lineage, along with A. maculatum and A. herbarium, which formed a resolved monophyletic lineage (Figure 2). A. maculatum and A. herbarium formed their lineage within the polytomy consisting of D. occidentalis, D. variabilis, I. pacificus, and Rh. sanguineus. The grouping of A. maculatum and A. herbarium was reflected with their associated Rickettsia species, R. parkerii and R. africae. The polytomy with Rh. sanguineus was reflected with its associated Rickettsia species, R. conorii. Interestingly, and contrary to the MP tree, R. japonica and R. australis switched positions, so that R. australis is now the only TG not grouped with the others two TG species (Figure 2).
 
-![](files/Figure1_MP.jpg)
+![](Figures/Figure1_MP.jpg)
 
-![](files/Figure2_MP.jpg)
+![](Figures//Figure2_MP.jpg)
 
-![](files/Table1.jpg)
+![](Figures/Table1.jpg)
 
 Discussion
 Interestingly, R. philipii (SFG) and R. austrlais (TG) were monophyletically grouped as sister taxa using ML with a bootstrap value of 100 (Figure 1), contradictory to Murray et al. (2016), who places R. philipii at a more deeply rooted position within the more recently diverged SFG. Accordingly, R. austrlais would presumably share greater bootstrap support with R. japonica, followed by R. peacockii (Murray et al. 2016), although this was not observed in this study. Alternatively, other phylogenies place R. australis in the Transitional Group, rather than the Typhus group (Weinert et al. 2009).
