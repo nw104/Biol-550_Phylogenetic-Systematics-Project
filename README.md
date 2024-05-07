@@ -28,9 +28,11 @@ VP sequences were aligned in AliView, respectively and concatenated. Concatenate
 Results
 
 Maximum Parsimony
+
 For Maximum Parsimony (MP), a basally orientated polytomy was present for Phereoeca sp. and D. occidentalis, while the associated Rickettsia species, for each vector, R. felis and R. philipii exhibited a resolved phylogeny with a deeply rooted polyphyletic grouping (Figure 1). D. andersoni, D. variabilis, A. herbaeum, A. maculatum, and Rh. sanguineus formed a highly supported polytomy (96), while their associated Rickettsia species, R. peaockii, R. conorii, R. rickettsia, R. parkerii, and R. africae exhibited a completely resolved phylogeny with a grouping reflective of their vectors.  I. ovatus and I. lividus were sister taxa, sharing a monophyletic grouping with comparatively high bootstrap support, while R. japonica and R. vini shared a polyphyletic grouping. R. philipii and R. australis were sister taxa, forming a more recent monophyletic grouping, with high bootstrap support. R. japonica was the only Typhus Group (TG) species not grouped with the other two TG Rickettsia, R. felis and R. australis (Figure 1). 
 
 Maximum Likelihood
+
 For Maximum Likelihood (ML), only two resolved lineages were observed for vectors. I. tasmani exhibited a resolved lineage, along with A. maculatum and A. herbarium, which formed a resolved monophyletic lineage (Figure 2). A. maculatum and A. herbarium formed their lineage within the polytomy consisting of D. occidentalis, D. variabilis, I. pacificus, and Rh. sanguineus. The grouping of A. maculatum and A. herbarium was reflected with their associated Rickettsia species, R. parkerii and R. africae. The polytomy with Rh. sanguineus was reflected with its associated Rickettsia species, R. conorii. Interestingly, and contrary to the MP tree, R. japonica and R. australis switched positions, so that R. australis is now the only TG not grouped with the others two TG species (Figure 2).
 
 ![](Figures/Figure1_MP.jpg)
