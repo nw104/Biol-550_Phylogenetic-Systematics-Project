@@ -25,6 +25,12 @@ For Maximum Parsimony (MP), a basally orientated polytomy was present for Phereo
 Maximum Likelihood
 For Maximum Likelihood (ML), only two resolved lineages were observed for vectors. I. tasmani exhibited a resolved lineage, along with A. maculatum and A. herbarium, which formed a resolved monophyletic lineage (Figure 2). A. maculatum and A. herbarium formed their lineage within the polytomy consisting of D. occidentalis, D. variabilis, I. pacificus, and Rh. sanguineus. The grouping of A. maculatum and A. herbarium was reflected with their associated Rickettsia species, R. parkerii and R. africae. The polytomy with Rh. sanguineus was reflected with its associated Rickettsia species, R. conorii. Interestingly, and contrary to the MP tree, R. japonica and R. australis switched positions, so that R. australis is now the only TG not grouped with the others two TG species (Figure 2).
 
+![](files/Figure1_MP.jpg)
+
+![](files/Figure2_MP.jpg)
+
+![](files/Table1.jpg)
+
 Discussion
 Interestingly, R. philipii (SFG) and R. austrlais (TG) were monophyletically grouped as sister taxa using ML with a bootstrap value of 100 (Figure 1), contradictory to Murray et al. (2016), who places R. philipii at a more deeply rooted position within the more recently diverged SFG. Accordingly, R. austrlais would presumably share greater bootstrap support with R. japonica, followed by R. peacockii (Murray et al. 2016), although this was not observed in this study. Alternatively, other phylogenies place R. australis in the Transitional Group, rather than the Typhus group (Weinert et al. 2009).
 ML offered a resolved phylogeny for both Amblyomma species, which were grouped monophyletically as sister taxa within a polytomy of D. occidentalis, D. variabilis, I. pacificus, and Rh. sanguineus. Amblyomma having more recently diverged from the more basal Ixodes genus are grouped together along with most of the Dermacentor ticks (Wang et al. 2019). Most of the Ixodes ticks are grouped basally to both Ambyomma, Rhipicephalus, and Dermacentor, except for I. pacificus, consistent with other tick phylogenies (Wang et al. 2019). 
@@ -72,4 +78,8 @@ Weinert LA, Araujo-Jnr EV, Ahmed MZ, Welch JJ. 2015. The incidence of bacterial 
 Weinert LA, Werren JH, Aebi A, Stone GN, Jiggins FM. 2009. Evolution and diversity of Rickettsia bacteria. BMC Biol. 7:6. doi:10.1186/1741-7007-7-6.
 
 
+
+
+
+Previous Practice
 ![](files/nc_astral.tre.jpg)
